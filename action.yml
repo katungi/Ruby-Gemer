@@ -1,0 +1,6 @@
+name: Ruby Gemer
+author: Daniel Dennis
+description: Ruby Gemer runs updates on gems in Ruby on Rails projects then tests them to increase efficiency and security.
+branding: 
+  icon: 'bar-chart-2'
+  color: 'purple'
