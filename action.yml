@@ -4,3 +4,6 @@ description: Ruby Gemer runs updates on gems in Ruby on Rails projects then test
 branding: 
   icon: 'bar-chart-2'
   color: 'purple'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
